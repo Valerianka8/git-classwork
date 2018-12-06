@@ -6,3 +6,23 @@
     -webkit-font-smoothing: antialiased;
     font-weight: normal;
 }
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: yellow;
+}
+
+p {
+    color: green;
+}
+
+a {
+    background-color: darkolivegreen;
+}
