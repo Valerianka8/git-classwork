@@ -11,28 +11,33 @@ h1 {
     color: black;
     background-color: darkolivegreen;
     padding: 10px;
+    margin: 10px;
 }
 
 h2 {
     color: red;
     background-color: darkolivegreen;
     padding: 10px;
+    margin: 10px;
 }
 
 h3 {
     color: yellow;
     background-color: darkolivegreen;
     padding: 10px;
+    margin: 10px;
 }
 
 p {
     color: green;
     background-color: darkolivegreen;
     padding: 10px;
+    margin: 10px;
 }
 
 a {
     background-color: darkolivegreen;
     color: greenyellow;
     padding: 10px;
+    margin: 10px;
 }
