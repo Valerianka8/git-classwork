@@ -9,20 +9,25 @@
 
 h1 {
     color: black;
+    background-color: darkolivegreen;
 }
 
 h2 {
     color: red;
+    background-color: darkolivegreen;
 }
 
 h3 {
     color: yellow;
+    background-color: darkolivegreen;
 }
 
 p {
     color: green;
+    background-color: darkolivegreen;
 }
 
 a {
     background-color: darkolivegreen;
+    color: greenyellow;
 }
